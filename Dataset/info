@@ -1,1 +1,26 @@
+# Dataset Description
+The model was trained using the Pima Indians Diabetes Dataset, which is publicly available from the UCI Machine Learning Repository. This dataset contains medical data collected from female patients of Pima Indian heritage, aged 21 years and older. It is commonly used for binary classification tasks related to diabetes diagnosis.
 
+# Features (8 total):
+
+Number of pregnancies
+
+Plasma glucose concentration
+
+Diastolic blood pressure
+
+Triceps skinfold thickness
+
+2-Hour serum insulin
+
+Body mass index (BMI)
+
+Diabetes pedigree function
+
+Age
+
+Target Variable:
+
+Outcome: Indicates whether the patient has diabetes (1) or not (0)
+
+This dataset is suitable for evaluating classification models, particularly in the healthcare domain.
